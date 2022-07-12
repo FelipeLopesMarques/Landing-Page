@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #ff3a3a !important;
+}
+
+.img{
+    size: 300px;
+    width: 350px;
+    height: 200px;
+}
+
+
+.footcolor{
+    background-image: url(https://i.imgur.com/UZTMHpX.png%27);
+}
+   
+.colorfoot{
+    background-color: #e72424;
+        
+}
+
+.video {
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p{
+    font-size: 20px;
+}
+.copy{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.tamanho-logos{
+    width: 30px;
+    height: 30px;
+    padding-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+   
